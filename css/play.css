@@ -1,0 +1,41 @@
+.letter{
+    background-color: #5ea548;
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    color: white;
+    margin: 5px;
+    width: 3vw;
+    height: 3vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container-game{
+    display: grid;
+    grid-template-columns: 40% 60%;
+}
+/* .letters{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+} */
+
+.hide-letter{
+    background-color: #73755c;
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    color: white;
+    margin: 5px;
+    width: 3vw;
+    height: 3vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.help{
+    background-color: beige;
+    padding: 10px;
+}
